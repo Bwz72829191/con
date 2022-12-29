@@ -1,8 +1,4 @@
-style.css
-
-  [Пересланное сообщение]
-  Андрей Астапов, сегодня в 21:59
-  @import URL('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap '); 
+@import URL('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap '); 
    
   body { 
    margin: 0; 
@@ -20,18 +16,15 @@ style.css
    height: 445px; 
    background-color: white; 
   } 
-   
   .a { 
    text-align: center; 
    margin-left: 300px; 
    float: left; 
-   
-   
   } 
    
   .b { 
    text-align: center; 
-   float: right; 
+   float: right
    margin-right: 300px; 
   } 
    
